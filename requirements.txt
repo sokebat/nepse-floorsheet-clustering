@@ -6,3 +6,4 @@ joblib
 pyyaml
 pytest
 python-dotenv
+ipykernel
